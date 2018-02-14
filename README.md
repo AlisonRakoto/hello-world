@@ -1,4 +1,4 @@
 # hello-world
 Alison learns GitHub
 
-Alison tests an edit. 
+Alison experiments with making edits to a repository. 
